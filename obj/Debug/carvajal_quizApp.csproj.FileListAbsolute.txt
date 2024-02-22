@@ -1,0 +1,10 @@
+C:\Users\psuur\Desktop\activity\carvajal_quizApp\bin\Debug\carvajal_quizApp.exe.config
+C:\Users\psuur\Desktop\activity\carvajal_quizApp\bin\Debug\carvajal_quizApp.exe
+C:\Users\psuur\Desktop\activity\carvajal_quizApp\bin\Debug\carvajal_quizApp.pdb
+C:\Users\psuur\Desktop\activity\carvajal_quizApp\obj\Debug\carvajal_quizApp.csproj.AssemblyReference.cache
+C:\Users\psuur\Desktop\activity\carvajal_quizApp\obj\Debug\carvajal_quizApp.Form1.resources
+C:\Users\psuur\Desktop\activity\carvajal_quizApp\obj\Debug\carvajal_quizApp.Properties.Resources.resources
+C:\Users\psuur\Desktop\activity\carvajal_quizApp\obj\Debug\carvajal_quizApp.csproj.GenerateResource.cache
+C:\Users\psuur\Desktop\activity\carvajal_quizApp\obj\Debug\carvajal_quizApp.csproj.CoreCompileInputs.cache
+C:\Users\psuur\Desktop\activity\carvajal_quizApp\obj\Debug\carvajal_quizApp.exe
+C:\Users\psuur\Desktop\activity\carvajal_quizApp\obj\Debug\carvajal_quizApp.pdb
